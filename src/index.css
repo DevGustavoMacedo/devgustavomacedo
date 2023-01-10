@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(4, 4, 13);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body li {
+  list-style: none;
+}
+body a {
+  text-decoration: none;
+}
+body::-webkit-scrollbar {
+  width: 10px;
+  /* width of the entire scrollbar */
+  height: 100%;
+}
+body::-webkit-scrollbar-track {
+  background-color: rgb(4, 4, 13);
+  /* color of the tracking area */
+}
+body::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg,#363f8c 40%,#4545e5);
+  /* color of the scroll thumb */
+  border-radius: 25px;
+}
