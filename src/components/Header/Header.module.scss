@@ -1,0 +1,166 @@
+@import 'vars';
+
+.header {
+  margin-top: 30px;
+
+  .stain {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 350px;
+    transform: rotateY(180deg);
+  }
+
+  .avatar {
+    text-align: center;
+
+    img {
+      width: 200px;
+      border-radius: 50%;
+      box-shadow: 0 0 20px $primary-color;
+      background-color: rgb(4, 4, 13);
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      margin: 20px 0 10px;
+      font-family: $titles;
+
+      background: $secondary-gradient;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      color: $secondary-color;
+      font-family: $titles;
+    }
+  }
+
+  .links {
+    margin: 40px 0;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    width: 100%;
+
+    a {
+      color: $secondary-color;
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      font-family: $description;
+      letter-spacing: 1px;
+      font-weight: 400;
+
+      img {
+        height: 40px;
+      }
+    }
+  }
+}
+
+@media (min-width: 1900px) {
+  .header {
+    .stain {
+      width: 500px;
+    }
+
+    .avatar {
+      img {
+        width: 300px;
+      }
+
+      h1 {
+        font-size: 4rem;
+      }
+
+      h2 {
+        font-size: 2rem;
+      }
+    }
+
+    .links {
+      margin: 60px 0;
+
+      a {
+        font-size: 1.5rem;
+        gap: 20px;
+
+        img {
+          height: 60px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 820px) {
+  .header {
+    .stain {
+      width: 250px;
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .header {
+    .avatar {
+      img {
+        width: 150px;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        font-size: 1rem;
+      }
+    }
+
+    .stain {
+      width: 200px;
+    }
+  }
+}
+
+@media (max-width: 440px) {
+  .header {
+    .stain {
+      width: 130px;
+    }
+
+    .avatar {
+      img {
+        width: 120px;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        font-size: 1rem;
+      }
+    }
+
+    .links {
+      margin: 30px auto;
+      gap: 50px;
+
+      a {
+        font-size: 0.7rem;
+
+        img {
+          height: 30px;
+        }
+      }
+    }
+  }
+}
