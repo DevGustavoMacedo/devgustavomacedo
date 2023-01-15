@@ -1,4 +1,19 @@
 const data = [
+    {
+    title: 'Crypto Simulator',
+    link: 'https://cryptosimulator.vercel.app/',
+    image: '/cryptosimulator.png',
+    about:
+      'Simulate buying or selling cryptocurrencies! Choose some coin, the amount, date of entry and exit, and generate a monthly simulation!',
+    made: [
+      { name: 'TypeScript', logo: 'typescript' },
+      { name: 'Vite', logo: 'vite' },
+      { name: 'ReactJS', logo: 'react' },
+      { name: 'Styled--Components', logo: 'styledcomponents' },
+
+    ],
+  },
+
   {
     title: 'Dunder Mifflin',
     link: 'https://dunder-mifflin.vercel.app/',
@@ -12,18 +27,15 @@ const data = [
     ],
   },
 
-    {
-    title: 'Crypto Simulator',
-    link: 'https://cryptosimulator.vercel.app/',
-    image: '/cryptosimulator.png',
+  {
+    title: 'QrCode ',
+    link: 'https://qrcodecreator.vercel.app',
+    image: '/qrcodecreator.png',
     about:
-      'Simulate buying or selling cryptocurrencies! Choose some coin, the amount, date of entry and exit, and generate a monthly simulation!',
+      'Insert the link, choose the color, the background color and create a custom QR Code! You can also download the QRCode image.',
     made: [
-      { name: 'TypeScript', logo: 'typescript' },
-      { name: 'Vite', logo: 'vite' },
-      { name: 'Styled--Components', logo: 'styledcomponents' },
       { name: 'ReactJS', logo: 'react' },
-
+      { name: 'Material.UI', logo: 'mui' },
     ],
   },
 
@@ -36,18 +48,6 @@ const data = [
     made: [
       { name: 'TypeScript', logo: 'typescript' },
       { name: 'ReactJS', logo: 'react' },
-    ],
-  },
-
-  {
-    title: 'QrCode ',
-    link: 'https://qrcodecreator.vercel.app',
-    image: '/qrcodecreator.png',
-    about:
-      'Insert the link, choose the color, the background color and create a custom QR Code! You can also download the QRCode image.',
-    made: [
-      { name: 'ReactJS', logo: 'react' },
-      { name: 'Material.UI', logo: 'mui' },
     ],
   },
 
