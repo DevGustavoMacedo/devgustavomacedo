@@ -19,7 +19,7 @@ const data = [
     link: 'https://dunder-mifflin.vercel.app/',
     image: '/dunder-mifflin.png',
     about:
-      "SSG page for the best sitcom ever! You can view the company's history, file a complaint, view our team and details about each one.",
+      "SSG page for the best sitcom ever! You can view company history, file a complaint, view our team and person details, and listen to our podcast!",
     made: [
       { name: 'NextJS', logo: 'next.js' },
       { name: 'ReactJS', logo: 'react' },
@@ -28,7 +28,7 @@ const data = [
   },
 
   {
-    title: 'QrCode ',
+    title: 'QrCode Creator',
     link: 'https://qrcodecreator.vercel.app',
     image: '/qrcodecreator.png',
     about:

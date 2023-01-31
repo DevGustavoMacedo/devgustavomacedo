@@ -7,7 +7,7 @@ export function Header() {
       <div className={style.avatar}>
         <img src="/avatar_small.png" alt="Gustavo Macedo" />
         <h1>Gustavo Macedo</h1>
-        <h2>FullStack Developer</h2>
+        <h2>Web Developer</h2>
       </div>
 
       <div className={style.links}>
