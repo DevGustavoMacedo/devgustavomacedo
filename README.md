@@ -10,12 +10,12 @@ A Web Developer focusing on the ReactJS/NodeJS ecosystem. Graduated as Bachelor 
 
 ### Repositories
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=cryptosimulator&cache_seconds=86400&theme=github_dark" width="40%" max-width="800px" alt="Crypto Simulator">](https://github.com/DevGustavoMacedo/cryptosimulator)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=dunder-mifflin&cache_seconds=86400&theme=github_dark" width="40%" max-width="800px" alt="Dunder Mifflin" >](https://github.com/DevGustavoMacedo/dunder-mifflin)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=tsreact-todolist&cache_seconds=86400&theme=github_dark" width="40%" max-width="800px" alt="Todo List" >](https://github.com/DevGustavoMacedo/tsreact-todolist)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=qrcodecreator&cache_seconds=86400&theme=github_dark" width="40%" max-width="800px" alt="QRcode Creator" >](https://github.com/DevGustavoMacedo/qrcodecreator)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=typescript-course&cache_seconds=86400&theme=github_dark" width="40%" max-width="800px" alt="Typescript Course" >](https://github.com/DevGustavoMacedo/typescript-course)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=nodejs-course&cache_seconds=86400&theme=github_dark" width="40%" max-width="800px" alt="NodeJS Course" >](https://github.com/DevGustavoMacedo/nodejs-course)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=cryptosimulator&cache_seconds=86400&theme=github_dark" width="45%" max-width="800px" alt="Crypto Simulator">](https://github.com/DevGustavoMacedo/cryptosimulator)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=dunder-mifflin&cache_seconds=86400&theme=github_dark" width="45%" max-width="800px" alt="Dunder Mifflin" >](https://github.com/DevGustavoMacedo/dunder-mifflin)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=tsreact-todolist&cache_seconds=86400&theme=github_dark" width="45%" max-width="800px" alt="Todo List" >](https://github.com/DevGustavoMacedo/tsreact-todolist)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=qrcodecreator&cache_seconds=86400&theme=github_dark" width="45%" max-width="800px" alt="QRcode Creator" >](https://github.com/DevGustavoMacedo/qrcodecreator)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=typescript-course&cache_seconds=86400&theme=github_dark" width="45%" max-width="800px" alt="Typescript Course" >](https://github.com/DevGustavoMacedo/typescript-course)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=nodejs-course&cache_seconds=86400&theme=github_dark" width="45%" max-width="800px" alt="NodeJS Course" >](https://github.com/DevGustavoMacedo/nodejs-course)
 
 ### Monthly Activity
 
