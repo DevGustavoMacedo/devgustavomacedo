@@ -2,7 +2,7 @@
 
 A Web Developer focusing on the ReactJS/NodeJS ecosystem. Graduated as Bachelor of Information Technology at UNIVESP. With 5 years of experience as a Computer Technician. 
 
-[<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />](https://www.linkedin.com/devgustavomacedo)
+[<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo/)
 
 ### Tech Stack
 
@@ -12,6 +12,8 @@ A Web Developer focusing on the ReactJS/NodeJS ecosystem. Graduated as Bachelor 
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=cryptosimulator&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="Crypto Simulator">](https://github.com/DevGustavoMacedo/cryptosimulator)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=dunder-mifflin&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="Dunder Mifflin" >](https://github.com/DevGustavoMacedo/dunder-mifflin)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=my-annotations&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="My Annotations" >](https://github.com/DevGustavoMacedo/my-annotations)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=dunder-mifflin-api&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="Dunder Mifflin Api" >](https://github.com/DevGustavoMacedo/dunder-mifflin-api)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=tsreact-todolist&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="Todo List" >](https://github.com/DevGustavoMacedo/tsreact-todolist)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=qrcodecreator&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="QRcode Creator" >](https://github.com/DevGustavoMacedo/qrcodecreator)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=typescript-course&cache_seconds=86400&theme=github_dark&hide_border=true" align="center" alt="Typescript Course" >](https://github.com/DevGustavoMacedo/typescript-course)
@@ -20,3 +22,4 @@ A Web Developer focusing on the ReactJS/NodeJS ecosystem. Graduated as Bachelor 
 ### Monthly Activity
 
 [<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevGustavoMacedo&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="Monthly Activity" >](#)
+
