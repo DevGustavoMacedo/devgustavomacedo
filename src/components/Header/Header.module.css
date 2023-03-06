@@ -9,31 +9,37 @@
   width: 350px;
   transform: rotateY(180deg);
 }
-.header .avatar {
-  text-align: center;
+.header .profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-.header .avatar img {
+.header .profile .avatar {
   width: 200px;
+  height: 200px;
   border-radius: 50%;
   box-shadow: 0 0 20px #4545e5;
-  background-color: rgb(4, 4, 13);
+  background-image: url("/avatar.svg");
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
 }
-.header .avatar h1 {
+.header .profile h1 {
   font-size: 2.4rem;
-  margin: 20px 0 10px;
+  margin: 2rem 0 0.5rem;
   font-family: "Philosopher", sans-serif;
   background: linear-gradient(180deg, #363f8c 40%, #4545e5);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.header .avatar h2 {
+.header .profile h2 {
   font-size: 1.2rem;
   color: rgb(230, 220, 230);
   font-family: "Philosopher", sans-serif;
 }
 .header .links {
-  margin: 40px 0;
+  margin: 2rem 0;
   display: flex;
   justify-content: center;
   gap: 200px;
@@ -58,13 +64,14 @@
   .header .stain {
     width: 500px;
   }
-  .header .avatar img {
+  .header .profile .avatar {
     width: 300px;
+    height: 300px;
   }
-  .header .avatar h1 {
+  .header .profile h1 {
     font-size: 4rem;
   }
-  .header .avatar h2 {
+  .header .profile h2 {
     font-size: 2rem;
   }
   .header .links {
@@ -84,13 +91,14 @@
   }
 }
 @media (max-width: 640px) {
-  .header .avatar img {
+  .header .profile .avatar {
     width: 150px;
+    height: 150px;
   }
-  .header .avatar h1 {
+  .header .profile h1 {
     font-size: 2rem;
   }
-  .header .avatar h2 {
+  .header .profile h2 {
     font-size: 1rem;
   }
   .header .stain {
@@ -101,13 +109,14 @@
   .header .stain {
     width: 130px;
   }
-  .header .avatar img {
+  .header .profile .avatar {
     width: 120px;
+    height: 120px;
   }
-  .header .avatar h1 {
+  .header .profile h1 {
     font-size: 2rem;
   }
-  .header .avatar h2 {
+  .header .profile h2 {
     font-size: 1rem;
   }
   .header .links {

@@ -26,30 +26,13 @@
   top: 50%;
   border-style: solid;
   border-radius: 50%;
-  -webkit-animation: clickEffect 0.5s ease-out infinite;
-          animation: clickEffect 0.5s ease-out infinite;
+  animation: clickEffect 0.5s ease-out infinite;
   z-index: 9;
   pointer-events: none;
 }
 .main .cards .card .cursor img {
   width: 3rem;
   padding: 0.25rem;
-}
-@-webkit-keyframes clickEffect {
-  0% {
-    opacity: 1;
-    width: 0.5em;
-    height: 0.5em;
-    margin: -0.25em;
-    border: 0.5em solid #e92929;
-  }
-  100% {
-    opacity: 0.2;
-    width: 3em;
-    height: 3em;
-    margin: -1.5em;
-    border: 0.125em solid #e92929;
-  }
 }
 @keyframes clickEffect {
   0% {

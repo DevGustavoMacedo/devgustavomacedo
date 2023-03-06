@@ -12,19 +12,25 @@
     transform: rotateY(180deg);
   }
 
-  .avatar {
-    text-align: center;
+  .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
-    img {
+    .avatar {
       width: 200px;
+      height: 200px;
       border-radius: 50%;
       box-shadow: 0 0 20px $primary-color;
-      background-color: rgb(4, 4, 13);
+      background-image: url('/avatar.svg');
+      background-size: cover;
+      background-repeat: none;
+      background-position: center;
     }
 
     h1 {
       font-size: 2.4rem;
-      margin: 20px 0 10px;
+      margin: 2rem 0 0.5rem;
       font-family: $titles;
 
       background: $secondary-gradient;
@@ -41,7 +47,7 @@
   }
 
   .links {
-    margin: 40px 0;
+    margin: 2rem 0;
     display: flex;
     justify-content: center;
     gap: 200px;
@@ -71,9 +77,10 @@
       width: 500px;
     }
 
-    .avatar {
-      img {
+    .profile {
+      .avatar {
         width: 300px;
+        height: 300px;
       }
 
       h1 {
@@ -110,9 +117,10 @@
 
 @media (max-width: 640px) {
   .header {
-    .avatar {
-      img {
+    .profile {
+      .avatar {
         width: 150px;
+        height: 150px;
       }
 
       h1 {
@@ -136,9 +144,10 @@
       width: 130px;
     }
 
-    .avatar {
-      img {
+    .profile {
+      .avatar {
         width: 120px;
+        height: 120px;
       }
 
       h1 {

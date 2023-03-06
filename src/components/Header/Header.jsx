@@ -4,8 +4,8 @@ export function Header() {
   return (
     <header className={style.header}>
       <img src="/stain.svg" alt="Stain" className={style.stain} />
-      <div className={style.avatar}>
-        <img src="/avatar_small.png" alt="Gustavo Macedo" />
+      <div className={style.profile}>
+        <div className={style.avatar} />
         <h1>Gustavo Macedo</h1>
         <h2>Web Developer</h2>
       </div>
