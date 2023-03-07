@@ -2,7 +2,7 @@
 
 A Web Developer focusing on the ReactJS/NodeJS ecosystem. Graduated as Bachelor of Information Technology at UNIVESP. With 5 years of experience as a Computer Technician. 
 
-[<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=f5f5f5" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo/)
+[<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=f5f5f5" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo)
 
 ### Tech Stack
 
