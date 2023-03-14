@@ -7,7 +7,6 @@ const data = [
       'Simulate buying or selling cryptocurrencies! Choose some coin, the amount, date of entry and exit, and generate a monthly simulation!',
     made: [
       { name: 'TypeScript', logo: 'typescript' },
-      { name: 'Vite', logo: 'vite' },
       { name: 'ReactJS', logo: 'react' },
       { name: 'Styled--Components', logo: 'styledcomponents' },
 
@@ -34,10 +33,10 @@ const data = [
     about:
       "An API to provide data about The Office series characters and Office Ladies podcast episodes",
     made: [
-      { name: 'nodejs', logo: 'node.js' },
-      { name: 'express', logo: 'express' },
-      { name: 'sequelize', logo: 'sequelize' },
-      { name: 'postgresql', logo: 'postgresql' },
+      { name: 'nextjs', logo: 'next.js' },
+      { name: 'mongodb', logo: 'mongodb' },
+      { name: 'tailwindcss', logo: 'tailwindcss' },
+      { name: 'typescript', logo: 'typescript' },
     ],
   },
 
