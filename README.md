@@ -1,12 +1,15 @@
 ## Hey old sport, I'm Gustavo!
 
-A Web Developer focusing on the ReactJS/NodeJS ecosystem. Graduated as Bachelor of Information Technology at UNIVESP. With 5 years of experience as a Computer Technician. 
-
 [<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=f5f5f5" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo)
+
+I currently work as a Frontend Developer in a HealthTech company. I have a Bachelor's degree in Information Technology at UNIVESP. I worked for 5 years as an IT technician, where I gained a strong foundation in technical support and customer service. My portfolio showcases several intuitive, responsive, and dynamic websites developed using modern technologies.
 
 ### Tech Stack
 
-[<img src="https://img.shields.io/badge/REACT-363f8c.svg?style=for-the-badge&logo=react&logoColor=f5f5f5" alt="React" />](#) [<img src="https://img.shields.io/badge/NEXT-363f8c?style=for-the-badge&logo=next.js&logoColor=f5f5f5" alt="NextJS" />](#) [<img src="https://img.shields.io/badge/node-363f8c?style=for-the-badge&logo=node.js&logoColor=f5f5f5" alt="NodeJS" />](#) [<img src="https://img.shields.io/badge/typescript-363f8c.svg?style=for-the-badge&logo=typescript&logoColor=f5f5f5" alt="Typescript" />](#) [<img src="https://img.shields.io/badge/mongodb-363f8c.svg?style=for-the-badge&logo=mongodb&logoColor=f5f5f5" alt="Sequelize" />](#) [<img src="https://img.shields.io/badge/PostgreSQL-363f8c.svg?style=for-the-badge&logo=PostgreSQL&logoColor=f5f5f5" alt="PostgreSQL" />](#) [<img src="https://img.shields.io/badge/SASS-363f8c.svg?style=for-the-badge&logo=SASS&logoColor=f5f5f5" alt="SASS" />](#) [<img src="https://img.shields.io/badge/Tailwind-363f8c?style=for-the-badge&logo=tailwindcss&logoColor=f5f5f5" alt="Tailwind" />](#) [<img src="https://img.shields.io/badge/styled--components-363f8c?style=for-the-badge&logo=styled-components&logoColor=f5f5f5" alt="Styled-Components" />](#)
+[<img src="https://img.shields.io/badge/NEXTJS-363f8c?style=for-the-badge&logo=next.js&logoColor=f5f5f5" alt="NextJS" />](#) [<img src="https://img.shields.io/badge/REACT-363f8c.svg?style=for-the-badge&logo=react&logoColor=f5f5f5" alt="React" />](#) [<img src="https://img.shields.io/badge/node.js-363f8c?style=for-the-badge&logo=node.js&logoColor=f5f5f5" alt="NodeJS" />](#)
+[<img src="https://img.shields.io/badge/typescript-363f8c.svg?style=for-the-badge&logo=typescript&logoColor=f5f5f5" alt="Typescript" />](#) [<img src="https://img.shields.io/badge/Tailwind-363f8c?style=for-the-badge&logo=tailwindcss&logoColor=f5f5f5" alt="Tailwind" />](#)
+[<img src="https://img.shields.io/badge/styled--components-363f8c?style=for-the-badge&logo=styled-components&logoColor=f5f5f5" alt="Styled-Components" />](#)
+[<img src="https://img.shields.io/badge/mongodb-363f8c.svg?style=for-the-badge&logo=mongodb&logoColor=f5f5f5" alt="MongoDB" />](#) [<img src="https://img.shields.io/badge/PostgreSQL-363f8c.svg?style=for-the-badge&logo=PostgreSQL&logoColor=f5f5f5" alt="PostgreSQL" />](#)
 
 ### Repositories
 
