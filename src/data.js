@@ -1,5 +1,5 @@
 const data = [
-    {
+  {
     title: 'Crypto Simulator',
     link: 'https://cryptosimulator.vercel.app/',
     image: '/cryptosimulator.webp',
@@ -7,20 +7,6 @@ const data = [
       'Simulate buying or selling cryptocurrencies! Choose some coin, the amount, date of entry and exit, and generate a monthly simulation!',
     made: [
       { name: 'TypeScript', logo: 'typescript' },
-      { name: 'ReactJS', logo: 'react' },
-      { name: 'Styled--Components', logo: 'styledcomponents' },
-
-    ],
-  },
-
-  {
-    title: 'Dunder Mifflin',
-    link: 'https://dunder-mifflin.vercel.app/',
-    image: '/dunder-mifflin.webp',
-    about:
-      "SSG page for the best sitcom ever! You can view company history, file a complaint, view our team and person details, and listen to our podcast!",
-    made: [
-      { name: 'NextJS', logo: 'next.js' },
       { name: 'ReactJS', logo: 'react' },
       { name: 'Styled--Components', logo: 'styledcomponents' },
     ],
@@ -31,15 +17,40 @@ const data = [
     link: 'https://dunder-mifflin-api.vercel.app/',
     image: '/dunder-mifflin-api.webp',
     about:
-      "An API to provide data about The Office series characters and Office Ladies podcast episodes",
+      'An API to provide data about The Office series characters and Office Ladies podcast episodes',
     made: [
-      { name: 'nextjs', logo: 'next.js' },
       { name: 'mongodb', logo: 'mongodb' },
-      { name: 'tailwindcss', logo: 'tailwindcss' },
+      { name: 'nextjs%2013', logo: 'next.js' },
       { name: 'typescript', logo: 'typescript' },
     ],
   },
 
+  {
+    title: 'Dunder Mifflin',
+    link: 'https://dunder-mifflin.vercel.app/',
+    image: '/dunder-mifflin.webp',
+    about:
+      'SSG page for the best sitcom ever! You can view company history, file a complaint, view our team and person details, and listen to our podcast!',
+    made: [
+      { name: 'NextJS%2012', logo: 'next.js' },
+      { name: 'ReactJS', logo: 'react' },
+      { name: 'Styled--Components', logo: 'styledcomponents' },
+    ],
+  },
+
+  {
+    title: 'Hype Store',
+    link: 'https://hypestore.vercel.app/',
+    image: '/hype-store.webp',
+    about:
+      'Browse clothing products by category, see them all, and register a suggestion or complaint.',
+    made: [
+      { name: 'nextjs%2013', logo: 'next.js' },
+      { name: 'tailwindcss', logo: 'tailwindcss' },
+      { name: 'typescript', logo: 'typescript' },
+      { name: 'ReactHookForm', logo: 'ReactHookForm' },
+    ],
+  },
 
   {
     title: 'QrCode Creator',
@@ -64,7 +75,6 @@ const data = [
       { name: 'ReactJS', logo: 'react' },
     ],
   },
-
 ]
 
 export default data
