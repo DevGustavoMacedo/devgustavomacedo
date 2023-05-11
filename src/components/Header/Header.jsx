@@ -1,5 +1,7 @@
 import style from './Header.module.css'
 
+import TypeIt from 'typeit-react'
+
 export function Header() {
   return (
     <header className={style.header}>
@@ -7,7 +9,22 @@ export function Header() {
       <div className={style.profile}>
         <div className={style.avatar} />
         <h1>Gustavo Macedo</h1>
-        <h2>Web Developer</h2>
+        <h2>
+          <TypeIt
+            options={{
+              speed: 150,
+              waitUntilVisible: true,
+            }}
+            getBeforeInit={(instance) => {
+              instance
+              .type('Worked for 5 years as an IT technician').pause(300).delete()
+              .type('Bachelor in Information Technology at Univesp').pause(300).delete()
+              .type('Working as a Volunteer Frontend Developer')
+              
+              return instance
+            }}
+          />
+        </h2>
       </div>
 
       <div className={style.links}>
