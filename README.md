@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=f5f5f5" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo)
 
-I currently work as a Volunteer Frontend Developer at @Lacrei. Bachelor in Information Technology at @Univesp. I worked for 5 years as an IT technician, which gave me skills in technical support and customer service. My portfolio contains websites developed with modern, responsive and dynamic technologies.
+I currently work as a Volunteer Frontend Developer at [Lacrei](https://github.com/lacrei). Bachelor in Information Technology at [Univesp](https://github.com/univesp). I worked for 5 years as an IT technician, which gave me skills in technical support and customer service. My portfolio contains websites developed with modern, responsive and dynamic technologies.
 
 ### Tech Stack
 
