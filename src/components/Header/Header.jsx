@@ -12,14 +12,14 @@ export function Header() {
         <h2>
           <TypeIt
             options={{
-              speed: 150,
+              speed: 50,
               waitUntilVisible: true,
             }}
             getBeforeInit={(instance) => {
               instance
-              .type('Worked for 5 years as an IT technician').pause(300).delete()
-              .type('Bachelor in Information Technology at Univesp').pause(300).delete()
-              .type('Working as a Volunteer Frontend Developer')
+              .type('Worked for 5 years as an IT technician').pause(2000).delete()
+              .type('Bachelor in Information Technology at Univesp').pause(2000).delete()
+              .type('Volunteer Frontend Developer')
               
               return instance
             }}

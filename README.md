@@ -1,8 +1,9 @@
-## Hey old sport, I'm Gustavo!
+## Welcome, I'm Gustavo!
 
 [<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=f5f5f5" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo)
 
-I currently work as a Volunteer Frontend Developer at [Lacrei](https://github.com/lacrei). Bachelor in Information Technology at [Univesp](https://github.com/univesp). I worked for 5 years as an IT technician, which gave me skills in technical support and customer service. My portfolio contains websites developed with modern, responsive and dynamic technologies.
+Bachelor of Information Technology at UNIVESP. I volunteered as a Frontend Developer at a medical Startup. I worked 5 years as a Computer Technician, where I gained a solid foundation in technical support and customer service.
+My portfolio features dynamic, responsive and modern websites using NextJS, ReactJS, TypeScript, NodeJS, MongoDB, PostgreSQL, Styled-Components and TailwindCSS.
 
 ### Tech Stack
 
@@ -20,9 +21,5 @@ I currently work as a Volunteer Frontend Developer at [Lacrei](https://github.co
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=tsreact-todolist&cache_seconds=86400&bg_color=202337&text_color=f5f5f5&icon_color=58a5fe&title_color=58a5fe&hide_border=true" align="center" alt="Todo List" >](https://github.com/DevGustavoMacedo/tsreact-todolist)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=qrcodecreator&cache_seconds=86400&bg_color=202337&text_color=f5f5f5&icon_color=58a5fe&title_color=58a5fe&hide_border=true" align="center" alt="QRcode Creator" >](https://github.com/DevGustavoMacedo/qrcodecreator)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=typescript-course&cache_seconds=86400&bg_color=202337&text_color=f5f5f5&icon_color=58a5fe&title_color=58a5fe&hide_border=true" align="center" alt="Typescript Course" >](https://github.com/DevGustavoMacedo/typescript-course)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=nodejs-course&cache_seconds=86400&bg_color=202337&text_color=f5f5f5&icon_color=58a5fe&title_color=58a5fe&hide_border=true" align="center" alt="NodeJS Course" >](https://github.com/DevGustavoMacedo/nodejs-course)
-
-### Monthly Activity
-
-[<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevGustavoMacedo&theme=github-dark&area=true&hide_border=true&hide_title=true&radius=8" alt="Monthly Activity" >](#)
-
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=dev-finances&cache_seconds=86400&bg_color=202337&text_color=f5f5f5&icon_color=58a5fe&title_color=58a5fe&hide_border=true" align="center" alt="Dev Finances" >](https://github.com/DevGustavoMacedo/dev-finances)
+<!-- [<img src="https://github-readme-stats.vercel.app/api/pin/?username=devgustavomacedo&repo=nodejs-course&cache_seconds=86400&bg_color=202337&text_color=f5f5f5&icon_color=58a5fe&title_color=58a5fe&hide_border=true" align="center" alt="NodeJS Course" >](https://github.com/DevGustavoMacedo/nodejs-course) -->

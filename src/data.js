@@ -75,6 +75,18 @@ const data = [
       { name: 'ReactJS', logo: 'react' },
     ],
   },
+
+  {
+    title: 'Dev.Finance$',
+    link: 'https://devgustavomacedo.github.io/dev-finances/',
+    image: '/dev-finances.webp',
+    about:
+      'Control your finances! User can add, edit or delete a profit/expense and generate balance. Also with dark mode!',
+    made: [
+      { name: 'javascript', logo: 'javascript' },
+      { name: 'sass', logo: 'sass' },
+    ],
+  },
 ]
 
 export default data
