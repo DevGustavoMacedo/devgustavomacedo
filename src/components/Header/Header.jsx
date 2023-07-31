@@ -17,9 +17,11 @@ export function Header() {
             }}
             getBeforeInit={(instance) => {
               instance
-              .type('Worked for 5 years as an IT technician').pause(2000).delete()
-              .type('Bachelor in Information Technology at Univesp').pause(2000).delete()
-              .type('Volunteer Frontend Developer')
+              .type('Studying Computer Engineering at UNIVESP').pause(2000).delete()
+              .type('Bachelor\'s Degree in Information Technology').pause(2000).delete()
+              .type('Volunteered as a Frontend Developer at a Medical Startup').pause(2000).delete()
+              .type('Worked 6 years as a Computer Technician').pause(2000).delete()
+              .type('Looking for Internship in Web Development')
               
               return instance
             }}

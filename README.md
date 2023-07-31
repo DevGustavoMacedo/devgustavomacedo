@@ -2,8 +2,11 @@
 
 [<img src="https://img.shields.io/badge/portfolio-4545e5.svg?style=for-the-badge&logo=riotgames&logoColor=f5f5f5" alt="Portfolio" />](https://devgustavomacedo.vercel.app) [<img src="https://img.shields.io/badge/linkedin-4545e5.svg?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" alt="Linkedin" />](https://www.linkedin.com/in/DevGustavoMacedo)
 
-Bachelor of Information Technology at UNIVESP. I volunteered as a Frontend Developer at a medical Startup. I worked 5 years as a Computer Technician, where I gained a solid foundation in technical support and customer service.
-My portfolio features dynamic, responsive and modern websites using NextJS, ReactJS, TypeScript, NodeJS, MongoDB, PostgreSQL, Styled-Components and TailwindCSS.
+- Looking for Internship in Web Development.
+- Studying Computer Engineering at UNIVESP.
+- Bachelor's Degree in Information Technology.
+- Volunteered as a Frontend Developer at a Medical Startup. 
+- Worked 6 years as a Computer Technician.
 
 ### Tech Stack
 
