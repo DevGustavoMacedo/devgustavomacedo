@@ -4,7 +4,6 @@
 
 - Looking for Internship in Web Development.
 - Studying Computer Engineering at UNIVESP.
-- Bachelor's Degree in Information Technology.
 - Volunteered as a Frontend Developer at a Medical Startup. 
 - Worked 6 years as a Computer Technician.
 
